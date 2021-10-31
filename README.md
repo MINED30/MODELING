@@ -20,7 +20,7 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>2021.10.30~2021.10.31</td>
+            <td>2021.10.30~<br>2021.10.31</td>
             <td>Vision_Transformer.ipynb</td>
             <td>Build Vision Transformer from scratch<br>RESULT:CIFAR10-67%/50%</td>
             <td rowspan=2>An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</td>
