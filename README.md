@@ -54,7 +54,7 @@
             <td>[-.ipynb](-)</td>
             <td> </td>
             <td>Pix2Pix</td>
-            <td rowspan=2>Han2Han</td>
+            <td rowspan=2><a href="https://github.com/MINED30/HAN2HAN">Han2Han</a></td>
         </tr>
         <tr>
             <td>6</td>
@@ -92,7 +92,7 @@
             <td>[-.ipynb](-)</td>
             <td> </td>
             <td>ELECTRA</td>
-            <td>Hate Speech Detection</td>
+            <td><a href="https://github.com/MINED30/Hate_Speech_Detection">Hate Speech Detection</a></td>
         </tr>
         <tr>
             <td>11</td>
@@ -100,7 +100,7 @@
             <td>[-.ipynb](-)</td>
             <td> </td>
             <td>YOLOv3</td>
-            <td>Face Mask Detection</td>
+            <td><a href="https://github.com/MINED30/Face_Mask_Detection_YOLO">Face Mask Detection</a></td>
         </tr>
     </tbody>
 </table>
