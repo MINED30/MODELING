@@ -5,7 +5,7 @@
         <tr>
             <th>Index</th>
             <th>Filename</th>
-            <th>Description　　　　　　　　　　　　　　　</th>
+            <th>Description</th>
             <th>Paper</th>
             <th>Related Projects</th>
         </tr>
@@ -14,7 +14,7 @@
         <tr>
             <td rowspan=2>1</td>
             <td><a href="https://github.com/MINED30/MODELING/blob/main/Vision_Transformer.ipynb">Vision_Transformer.ipynb</a></td>
-            <td>Build Vision Transformer from scratch<br>+use pretrained model</td>
+            <td>Build Vision Transformer from scratch with pytorch<br>+use pretrained model</td>
             <td><a href="https://arxiv.org/pdf/2010.11929.pdf">An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</a></td>
             <td>Denoising Images</td>
         </tr>
