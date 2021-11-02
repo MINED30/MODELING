@@ -22,11 +22,14 @@
             <td colspan=4><img src="https://user-images.githubusercontent.com/73981982/139864986-e2822a5b-0a99-48bf-8d6d-3b2beee7024c.png"><br>CIFAR10 : Trainset Accuracy - 67% / Testset Accuracy - 50%</td>
         </tr>
         <tr>
-            <td>3</td>
-            <td>[-.ipynb](-)</td>
-            <td>Apply pretraining methodology to ???</td>
+            <td rowspan=2>2</td>
+            <td rowspan=2>[-.ipynb](-)</td>
+            <td rowspan=2>Apply pretraining methodology to ???</td>
             <td><a href="https://arxiv.org/pdf/1912.08777.pdf">PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization</a></td>
-            <td>Get Wings!</td>
+            <td rowspan=2>Get Wings!</td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/1910.13461.pdf">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></td>
         </tr>
         <tr>
             <td>4</td>
