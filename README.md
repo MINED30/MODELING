@@ -5,9 +5,9 @@
         <tr>
             <th>Index</th>
             <th>Filename</th>
-            <th>Description</th>
+            <th>Description　　　　　　　　　　　　　　　</th>
             <th>Paper</th>
-            <th>Project</th>
+            <th>Related Projects</th>
         </tr>
     </thead>
     <tbody>
@@ -32,14 +32,15 @@
             <td>4</td>
             <td>[-.ipynb](-)</td>
             <td> </td>
-            <td>Swin Transformer</td>
+            <td><a href="https://arxiv.org/pdf/2103.14030.pdf">Swin Transformer: Hierarchical Vision Transformer using Shifted Windows</a></td>
             <td>AI-based X-ray security screening system</td>
         </tr>
         <tr>
             <td>5</td>
             <td>[-.ipynb](-)</td>
             <td> </td>
-            <td>Pix2Pix</td>
+            <td><a href="https://arxiv.org/pdf/1611.07004.pdf">Image-to-Image Translation with Conditional Adversarial Networks
+</a></td>
             <td rowspan=2><a href="https://github.com/MINED30/HAN2HAN">Han2Han</a></td>
         </tr>
         <tr>
@@ -59,27 +60,27 @@
             <td>8</td>
             <td>[-.ipynb](-)</td>
             <td> </td>
-            <td>GPT</td>
+            <td><a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf">GPT2</a></td>
         </tr>
         <tr>
             <td>9</td>
             <td>[-.ipynb](-)</td>
             <td> </td>
-            <td>Transoformer Colorization</td>
-            <td>Transoformer Colorization</td>
+            <td><a href="https://arxiv.org/pdf/2102.04432.pdf">Colorization Transformer</td>
+            <td>Colorization Transformer</td>
         </tr>
         <tr>
             <td>10</td>
             <td>[-.ipynb](-)</td>
             <td> </td>
-            <td>ELECTRA</td>
+            <td><a href="https://arxiv.org/pdf/2003.10555.pdf">ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS</a></td>
             <td><a href="https://github.com/MINED30/Hate_Speech_Detection">Hate Speech Detection</a></td>
         </tr>
         <tr>
             <td>11</td>
             <td>[-.ipynb](-)</td>
             <td> </td>
-            <td>YOLOv3</td>
+            <td><a href="https://arxiv.org/pdf/1804.02767.pdf">YOLOv3</a></td>
             <td><a href="https://github.com/MINED30/Face_Mask_Detection_YOLO">Face Mask Detection</a></td>
         </tr>
     </tbody>
