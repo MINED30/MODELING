@@ -19,7 +19,7 @@
             <td>Denoising Images</td>
         </tr>
         <tr>
-            <td colspan=4><img src="https://user-images.githubusercontent.com/73981982/139864986-e2822a5b-0a99-48bf-8d6d-3b2beee7024c.png">CIFAR10 : Trainset Accuracy - 67% / Testset Accuracy - 50%</td>
+            <td colspan=4><img src="https://user-images.githubusercontent.com/73981982/139864986-e2822a5b-0a99-48bf-8d6d-3b2beee7024c.png"><br>CIFAR10 : Trainset Accuracy - 67% / Testset Accuracy - 50%</td>
         </tr>
         <tr>
             <td>3</td>
