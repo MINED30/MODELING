@@ -32,6 +32,13 @@
             <td><a href="https://arxiv.org/pdf/1910.13461.pdf">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></td>
         </tr>
         <tr>
+            <td>3</td>
+            <td>[-.ipynb](-)</td>
+            <td> </td>
+            <td><a href="https://arxiv.org/pdf/1804.02767.pdf">YOLOv3: An Incremental Improvement</a></td>
+            <td><a href="https://github.com/MINED30/Face_Mask_Detection_YOLO">Face Mask Detection</a></td>
+        </tr>
+        <tr>
             <td>4</td>
             <td>[-.ipynb](-)</td>
             <td> </td>
@@ -78,13 +85,6 @@
             <td> </td>
             <td><a href="https://arxiv.org/pdf/2003.10555.pdf">ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS</a></td>
             <td><a href="https://github.com/MINED30/Hate_Speech_Detection">Hate Speech Detection</a></td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td>[-.ipynb](-)</td>
-            <td> </td>
-            <td><a href="https://arxiv.org/pdf/1804.02767.pdf">YOLOv3</a></td>
-            <td><a href="https://github.com/MINED30/Face_Mask_Detection_YOLO">Face Mask Detection</a></td>
         </tr>
     </tbody>
 </table>
