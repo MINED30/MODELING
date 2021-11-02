@@ -13,18 +13,15 @@
     </thead>
     <tbody>
         <tr>
-            <td>1</td>
+            <td rowspan=2>1</td>
             <td>2021.10.30~<br>2021.10.31</td>
             <td><a href="https://github.com/MINED30/MODELING/blob/main/Vision_Transformer.ipynb">Vision_Transformer.ipynb</a></td>
             <td>Build Vision Transformer from scratch<br>RESULT:CIFAR10-67%/50%</td>
-            <td rowspan=2><a href="https://arxiv.org/pdf/2010.11929.pdf">An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</a></td>
-            <td rowspan=2>Denoising Images</td>
+            <td><a href="https://arxiv.org/pdf/2010.11929.pdf">An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</a></td>
+            <td>Denoising Images</td>
         </tr>
         <tr>
-            <td>2</td>
-            <td>2021~</td>
-            <td>[-.ipynb](-)</td>
-            <td>Build Vision Transformer from pretrained via huggingface</td>
+            <td colspan=5><img src="https://user-images.githubusercontent.com/73981982/139861641-5d031cb6-4575-4e09-aa55-fe19b344700c.png"></td>
         </tr>
         <tr>
             <td>3</td>
