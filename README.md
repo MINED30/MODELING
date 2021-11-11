@@ -86,5 +86,12 @@
             <td><a href="https://arxiv.org/pdf/2003.10555.pdf">ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS</a></td>
             <td><a href="https://github.com/MINED30/Hate_Speech_Detection">Hate Speech Detection</a></td>
         </tr>
+        <tr>
+            <td>11</td>
+            <td>[-.ipynb](-)</td>
+            <td> </td>
+            <td><a href="">Image Segmentation</a></td>
+            <td><a href="">Empirical analysis of traffic accidents based on deep learning.</a></td>
+        </tr>
     </tbody>
 </table>
