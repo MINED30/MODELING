@@ -14,12 +14,22 @@
         <tr>
             <td rowspan=2>1</td>
             <td><a href="https://github.com/MINED30/MODELING/blob/main/Vision_Transformer.ipynb">Vision_Transformer.ipynb</a></td>
-            <td>Build Vision Transformer from scratch with pytorch<br>+use pretrained model (via huggingface)</td>
+            <td>Build Vision Transformer from scratch (pytorch)<br>+use pretrained model (via huggingface)</td>
             <td><a href="https://arxiv.org/pdf/2010.11929.pdf">An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</a></td>
             <td>Denoising Images</td>
         </tr>
         <tr>
             <td colspan=4><img src="https://user-images.githubusercontent.com/73981982/139864986-e2822a5b-0a99-48bf-8d6d-3b2beee7024c.png"><br>CIFAR10 : Trainset Accuracy - 67% / Testset Accuracy - 50%</td>
+        </tr>
+        <tr>
+            <td rowspan=2>2</td>
+            <td><a href="https://github.com/MINED30/MODELING/blob/main/Swin_Transformer.ipynb">Swin_Transformer.ipynb</a></td>
+            <td>Build Swin Transformer from scratch (pytorch)</td>
+            <td><a href="https://arxiv.org/pdf/2103.14030.pdf">Swin Transformer: Hierarchical Vision Transformer using Shifted Windows</a></td>
+            <td>AI-based X-ray security screening system</td>
+        </tr>
+        <tr>
+            <td colspan=4><img src="https://user-images.githubusercontent.com/73981982/142154667-c91df492-422c-4d91-bb05-fcbd0280302b.png"></td>
         </tr>
         <tr>
             <td rowspan=2>2</td>
@@ -37,13 +47,6 @@
             <td> </td>
             <td><a href="https://arxiv.org/pdf/1804.02767.pdf">YOLOv3: An Incremental Improvement</a></td>
             <td><a href="https://github.com/MINED30/Face_Mask_Detection_YOLO">Face Mask Detection</a></td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td><a href="https://github.com/MINED30/MODELING/blob/main/Swin_Transformer.ipynb">Swin_Transformer.ipynb</a></td>
-            <td> </td>
-            <td><a href="https://arxiv.org/pdf/2103.14030.pdf">Swin Transformer: Hierarchical Vision Transformer using Shifted Windows</a></td>
-            <td>AI-based X-ray security screening system</td>
         </tr>
         <tr>
             <td>5</td>
