@@ -33,7 +33,7 @@
         </tr>
         <tr>
             <td rowspan=2>3</td>
-            <td rowspan=2>[-.ipynb](-)</td>
+            <td><a href="https://github.com/MINED30/MODELING/blob/main/PEGASUS_to_KoBART.ipynb">PEGASUS_to_KoBART.ipynb</a></td>
             <td rowspan=2>Apply pretraining methodology to KoBART</td>
             <td><a href="https://arxiv.org/pdf/1912.08777.pdf">PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization</a></td>
             <td rowspan=2>Get Wings!</td>
