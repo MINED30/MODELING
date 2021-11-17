@@ -32,7 +32,7 @@
             <td colspan=4><img src="https://user-images.githubusercontent.com/73981982/142154667-c91df492-422c-4d91-bb05-fcbd0280302b.png"></td>
         </tr>
         <tr>
-            <td rowspan=2>2</td>
+            <td rowspan=2>3</td>
             <td rowspan=2>[-.ipynb](-)</td>
             <td rowspan=2>Apply pretraining methodology to KoBART</td>
             <td><a href="https://arxiv.org/pdf/1912.08777.pdf">PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization</a></td>
@@ -42,7 +42,7 @@
             <td><a href="https://arxiv.org/pdf/1910.13461.pdf">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>4</td>
             <td>[-.ipynb](-)</td>
             <td> </td>
             <td><a href="https://arxiv.org/pdf/1804.02767.pdf">YOLOv3: An Incremental Improvement</a></td>
@@ -93,7 +93,7 @@
             <td>11</td>
             <td>[-.ipynb](-)</td>
             <td> </td>
-            <td><a href="">Image Segmentation</a></td>
+            <td><a href="https://arxiv.org/pdf/2105.15203.pdf">SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers</a></td>
             <td><a href="">Empirical analysis of traffic accidents based on deep learning.</a></td>
         </tr>
     </tbody>
