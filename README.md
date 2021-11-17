@@ -40,7 +40,7 @@
         </tr>
         <tr>
             <td>4</td>
-            <td>[-.ipynb](-)</td>
+            <td><a href="https://github.com/MINED30/MODELING/blob/main/Swin_Transformer.ipynb">Swin_Transformer.ipynb</a></td>
             <td> </td>
             <td><a href="https://arxiv.org/pdf/2103.14030.pdf">Swin Transformer: Hierarchical Vision Transformer using Shifted Windows</a></td>
             <td>AI-based X-ray security screening system</td>
