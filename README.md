@@ -24,7 +24,7 @@
         <tr>
             <td rowspan=2>2</td>
             <td rowspan=2>[-.ipynb](-)</td>
-            <td rowspan=2>Apply pretraining methodology to ???</td>
+            <td rowspan=2>Apply pretraining methodology to KoBART</td>
             <td><a href="https://arxiv.org/pdf/1912.08777.pdf">PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization</a></td>
             <td rowspan=2>Get Wings!</td>
         </tr>
